@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Edmar Silva ✌️
 
-[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edmar.s.neves/)
+
 <a href="https://www.linkedin.com/in/edmar-sn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
