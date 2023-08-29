@@ -14,4 +14,3 @@
 
 ## "Só é possível crescer quando tentamos algo nunca imaginado e mergulhamos no desconhecido"
 
-![snake gif](https://github.com/EdmarSNeves/EdmarSNeves/blob/output/github-contribution-grid-snake.svg)
